@@ -1,6 +1,6 @@
 ## Analysis of Open Unemployment Rates in North Sumatera in 2022 Using Geographically Weighted Regression (GWR)
 
-![GWR](https://cdn.antaranews.com/cache/350x233/2013/06/20130627Bursa-Kerja-270613-af-2.jpg) <br>
+![GWR](https://cdn.antaranews.com/cache/350x233/2013/06/20130627Bursa-Kerja-270613-af-2.jpg)
 
 ### Introduction
 This project is conducted as part of the course "Spatial Data Analysis". Understanding spatial patterns and trends in unemployment rates is crucial for informed policy-making and targeted intervention strategies. In this project, we focus on analyzing the Open Unemployment Rate (TPK) dataset for the province of North Sumatra in the year 2022. Unemployment rates serve as key indicators of economic health and societal well-being, reflecting the labor market dynamics and regional disparities within a geographical area. By leveraging Geographically Weighted Regression (GWR) analysis, we aim to uncover spatially varying relationships between socio-economic factors and unemployment rates across different regions of North Sumatra. This spatially explicit approach allows for a nuanced understanding of the drivers of unemployment, considering the unique characteristics and contexts of individual locations within the province.
